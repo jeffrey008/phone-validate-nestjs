@@ -50,5 +50,7 @@ Return 'Hello World!'.
 Accepts query params as follows:
 
 `number`: the phone number. Required.
+
 `countryCode`: Check all available codes here: https://www.iban.com/country-codes. Optional.
+
 The success response will be the same as https://numverify.com/documentation#api_response
